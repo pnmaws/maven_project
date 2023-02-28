@@ -1,0 +1,7 @@
+[pull]
+	rebase = true
+[rebase]
+	autoStash = true
+[user]
+	name = poonam
+	email = pnmawspm@gmail.com
